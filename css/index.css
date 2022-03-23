@@ -1,14 +1,16 @@
 body {
-font-family: Microsoft JhengHei;
-background-image: url(../images/cake.jpg);
-background-repeat: no-repeat;
-background-attachment: fixed;
-background-position: center center;
-background-size: cover;
+    font-family: Microsoft JhengHei, sans-serif;
+    background-image: url(../images/cake.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
 }
+
 .col-lg-5 {
-background-color: rgba(236, 108, 108, 0.62);
+    background-color: rgba(236, 108, 108, 0.62);
 }
+
 .text {
-height: 100vh;
+    height: 100vh;
 }
